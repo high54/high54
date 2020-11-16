@@ -20,6 +20,8 @@
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
+---
+<img align="left" alt="high54's Github Stats" src="https://github-readme-stats.vercel.app/api?username=high54&show_icons=true&hide_border=true" />
 
 
 <!--
