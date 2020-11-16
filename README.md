@@ -13,6 +13,7 @@
 [<img align="left" alt="Julien Bertacco" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> ][linkedin]
 
 
+
 <br />
 <br />
 
@@ -27,7 +28,6 @@
 
 ---
 <img align="left" alt="high54's Github Stats" src="https://github-readme-stats.vercel.app/api?username=high54&show_icons=true&hide_border=true" />
-
 
 <!--
 **high54/high54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
