@@ -18,6 +18,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Sauvegarde des données en locale](https://www.youtube.com/watch?v=lYhCmDipKoo)
+- [Emission d'évènements](https://www.youtube.com/watch?v=uYauzvbHGXI)
+- [Binding de données](https://www.youtube.com/watch?v=sn2CzJqR3mo)
+- [Ajout du State et de getters](https://www.youtube.com/watch?v=wlF3JMVhlS0)
+- [Ajout des templates HTML](https://www.youtube.com/watch?v=QPnU38PVliA)
 <!-- YOUTUBE:END -->
 
 
