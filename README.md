@@ -19,11 +19,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
-- [Sauvegarde des données en locale](https://www.youtube.com/watch?v=lYhCmDipKoo)
-- [Emission d'évènements](https://www.youtube.com/watch?v=uYauzvbHGXI)
-- [Binding de données](https://www.youtube.com/watch?v=sn2CzJqR3mo)
-- [Ajout du State et de getters](https://www.youtube.com/watch?v=wlF3JMVhlS0)
-- [Ajout des templates HTML](https://www.youtube.com/watch?v=QPnU38PVliA)
+- [Angular - To Do List - Sauvegarde des données en locale  - 7/7](https://www.youtube.com/watch?v=lYhCmDipKoo)
+- [Angular - To Do List - Emission d'évènements - 6/7](https://www.youtube.com/watch?v=uYauzvbHGXI)
+- [Angular - To Do List - Binding de données - 5/7](https://www.youtube.com/watch?v=sn2CzJqR3mo)
+- [Angular - To Do List - Ajout du State et de getters - 4/7](https://www.youtube.com/watch?v=wlF3JMVhlS0)
+- [Angular - To Do List - Ajout des templates HTML - 3/7](https://www.youtube.com/watch?v=QPnU38PVliA)
 <!-- YOUTUBE:END -->
 
 ---
