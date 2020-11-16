@@ -8,7 +8,7 @@ on:
 jobs:
   update-readme-with-youtube:
     name: Update this repo's README with lastest videos from Youtube
-    runs-on: ubuntu-latests
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
