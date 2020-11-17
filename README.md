@@ -3,7 +3,7 @@
 ## I'm Developer and Teacher !
 - 🔭 I’m currently working on WhatsApp Clone With Angular 11
 - 🌱 I’m currently learning everything 😆
-- 👯 I’m looking to collaborate on with other content creators
+- 👯 I’m looking to collaborate with other content creators
 
 ### Connect with me:
 
