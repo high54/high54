@@ -19,7 +19,7 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
-- [Angular - Décorateur @Input()](https://www.youtube.com/watch?v=Yd77WFSQCyQ)
+- [Angular - En détail - Décorateur @Input()](https://www.youtube.com/watch?v=r6DAENg7Tb0)
 - [Angular - To Do List - Sauvegarde des données en locale  - 7/7](https://www.youtube.com/watch?v=lYhCmDipKoo)
 - [Angular - To Do List - Emission d'évènements - 6/7](https://www.youtube.com/watch?v=uYauzvbHGXI)
 - [Angular - To Do List - Binding de données - 5/7](https://www.youtube.com/watch?v=sn2CzJqR3mo)
