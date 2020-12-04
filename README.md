@@ -1,7 +1,7 @@
 ### Hi there, I'm Julien [website] 👋
 
 ## I'm Developer and Teacher !
-- 🔭 I’m currently working on WhatsApp Clone With Angular 11
+- 🔭 I’m currently working on Angular courses
 - 🌱 I’m currently learning everything 😆
 - 👯 I’m looking to collaborate with other content creators
 
